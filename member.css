@@ -15,6 +15,10 @@ body {
 
     
 }
+header {
+    position: fixed;
+}
+
 .home {
     border-bottom: 4px solid #A92F32;
 }
