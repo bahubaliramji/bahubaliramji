@@ -4,6 +4,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
+header {
+    position: fixed;
+}
 
 h1{
     text-align: center;
