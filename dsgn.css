@@ -22,6 +22,9 @@ header {
     width: 100%;
     position: fixed;
 }
+.search {
+	border-radius: 50px;
+}
 .main {
 	padding-top: 150px;
 }
